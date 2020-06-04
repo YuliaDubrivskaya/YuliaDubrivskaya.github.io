@@ -1,0 +1,12 @@
+div{border:solid 3px;margin:5px;padding:10px;text-align:center;font-style:times new roman;}
+
+
+#b1{background:brown;height:190px;width:1380px;}
+
+
+#b2{float:left;background:yellow;height:465px;width:250px;font-weight:10;}
+#b4{float:left;background-image: url(Pic1.jpg);height:100px;width:250px;font-weight:10;}
+#b3{float:right;background:blue;height:600px;width:1085px;}
+
+
+#b5{background:#bd9da0;width:1370px;display:inline-block;}
